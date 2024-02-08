@@ -14,6 +14,7 @@ makefile
 *.opt
 *.pp
 *.xml
+!**/system.xml
 # Generated directories
 .config/
 .launches/
